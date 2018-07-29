@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "24.0.0",
+    "androidStatusBarColor": "#334393",
+    "androidStatusBar": {
+      "barStyle": "dark-content",
+      "backgroundColor": "#FFF"
+    }
+  },
+  "name": "nativefrontend",
+  "displayName": "App"
+}
